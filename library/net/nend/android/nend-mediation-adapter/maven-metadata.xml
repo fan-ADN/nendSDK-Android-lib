@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.nend.android</groupId>
+  <artifactId>nend-mediation-adapter</artifactId>
+  <version>1.2.2</version>
+  <versioning>
+    <versions>
+      <version>1.2.2</version>
+    </versions>
+    <lastUpdated>20151201071839</lastUpdated>
+  </versioning>
+</metadata>
