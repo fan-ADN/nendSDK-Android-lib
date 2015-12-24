@@ -2,11 +2,11 @@
 <metadata>
   <groupId>net.nend.android</groupId>
   <artifactId>nend-sdk</artifactId>
-  <version>3.0.2</version>
+  <version>3.0.3</version>
   <versioning>
     <versions>
-      <version>3.0.2</version>
+      <version>3.0.3</version>
     </versions>
-    <lastUpdated>20151210085134</lastUpdated>
+    <lastUpdated>20151224012734</lastUpdated>
   </versioning>
 </metadata>
