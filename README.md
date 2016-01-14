@@ -22,7 +22,7 @@ dependencies {
 
 ```
 dependencies {
-    compile 'net.nend.android:nend-adapter:1.2.2@aar'
+    compile 'net.nend.android:nend-adapter:1.2.3@aar'
     compile 'net.nend.android:nend-sdk:3.0.3'
 }
 ```
