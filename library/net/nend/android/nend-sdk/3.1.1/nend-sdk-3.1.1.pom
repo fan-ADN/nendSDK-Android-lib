@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.nend.android</groupId>
   <artifactId>nend-sdk</artifactId>
-  <version>3.1.0</version>
+  <version>3.1.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -16,7 +16,7 @@
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>recyclerview-v7</artifactId>
-      <version>23.1.1</version>
+      <version>23.4.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
