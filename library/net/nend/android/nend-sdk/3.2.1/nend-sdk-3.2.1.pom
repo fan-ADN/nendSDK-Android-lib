@@ -4,19 +4,19 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.nend.android</groupId>
   <artifactId>nend-sdk</artifactId>
-  <version>3.2.0</version>
+  <version>3.2.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>com.google.android.gms</groupId>
       <artifactId>play-services-ads</artifactId>
-      <version>9.2.1</version>
+      <version>9.8.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>recyclerview-v7</artifactId>
-      <version>23.4.0</version>
+      <version>25.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
