@@ -14,7 +14,7 @@ repositories {
 
 ```
 dependencies {
-    compile 'net.nend.android:nend-sdk:3.3.1'
+    compile 'net.nend.android:nend-sdk:4.0.1'
 }
 ```
 
@@ -22,7 +22,7 @@ dependencies {
 
 ```
 dependencies {
-    compile 'net.nend.android:nend-adapter:1.2.7'
+    compile 'net.nend.android:nend-adapter:1.3.0'
 }
 ```
 
