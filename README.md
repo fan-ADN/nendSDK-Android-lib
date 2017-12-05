@@ -33,3 +33,11 @@ dependencies {
     compile 'net.nend.android:nend-custom-event:1.0.0'
 }
 ```
+
+### nendSDK MoPub CustomEvent Library
+
+```
+dependencies {
+    compile 'net.nend.android:nend-custom-event-mopub:1.0.0'
+}
+```
