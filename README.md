@@ -22,6 +22,6 @@ dependencies {
 
 ```
 dependencies {
-    compile 'net.nend.android:nend-custom-event-mopub:1.0.0'
+    compile 'net.nend.android:nend-custom-event-mopub:1.1.0'
 }
 ```
