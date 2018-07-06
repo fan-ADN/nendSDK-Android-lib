@@ -14,7 +14,7 @@ repositories {
 
 ```
 dependencies {
-    compile 'net.nend.android:nend-sdk:4.0.5'
+    implementation 'net.nend.android:nend-sdk:5.0.1'
 }
 ```
 
@@ -22,6 +22,6 @@ dependencies {
 
 ```
 dependencies {
-    compile 'net.nend.android:nend-custom-event-mopub:1.2.0'
+    implementation 'net.nend.android:nend-custom-event-mopub:1.2.0'
 }
 ```
