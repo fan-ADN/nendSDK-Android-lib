@@ -3,25 +3,25 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.nend.android</groupId>
   <artifactId>nend-custom-event-mopub</artifactId>
-  <version>7.0.2.0</version>
+  <version>7.0.3.0</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>com.mopub</groupId>
       <artifactId>mopub-sdk-banner</artifactId>
-      <version>5.16.0</version>
+      <version>5.16.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.mopub</groupId>
       <artifactId>mopub-sdk-fullscreen</artifactId>
-      <version>5.16.0</version>
+      <version>5.16.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>net.nend.android</groupId>
       <artifactId>nend-sdk</artifactId>
-      <version>7.0.2</version>
+      <version>7.0.3</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
