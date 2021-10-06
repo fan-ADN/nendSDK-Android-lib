@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.nend.android</groupId>
+  <artifactId>nend-sdk</artifactId>
+  <versioning>
+    <latest>8.0.1</latest>
+    <release>8.0.1</release>
+    <versions>
+      <version>5.0.3</version>
+      <version>5.1.0</version>
+      <version>5.1.1</version>
+      <version>5.1.2</version>
+      <version>5.2.0</version>
+      <version>5.3.0</version>
+      <version>5.4.0</version>
+      <version>5.4.1</version>
+      <version>5.4.2</version>
+      <version>6.0.0</version>
+      <version>6.0.1</version>
+      <version>7.0.0</version>
+      <version>7.0.1</version>
+      <version>7.0.2</version>
+      <version>7.0.3</version>
+      <version>7.1.0</version>
+      <version>8.0.0</version>
+      <version>8.0.1</version>
+    </versions>
+    <lastUpdated>20211006041225</lastUpdated>
+  </versioning>
+</metadata>
