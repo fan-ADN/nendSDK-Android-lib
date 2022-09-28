@@ -4,25 +4,25 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.nend.android</groupId>
   <artifactId>nend-custom-event-ironsource</artifactId>
-  <version>8.2.0.0</version>
+  <version>9.0.0.0</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>com.ironsource.sdk</groupId>
       <artifactId>mediationsdk</artifactId>
-      <version>7.2.3.1</version>
+      <version>7.2.4.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-stdlib</artifactId>
       <version>1.4.32</version>
-      <scope>compile</scope>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>net.nend.android</groupId>
       <artifactId>nend-sdk</artifactId>
-      <version>8.2.0</version>
+      <version>9.0.0</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
